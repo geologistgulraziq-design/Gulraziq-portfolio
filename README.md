@@ -12,7 +12,7 @@ Professional portfolio website for Gul Raziq - Exploration Geologist
 
 ## About Me
 
-Exploration Geologist with 6+ years of geological and field experience across Saudi Arabia and Pakistan, with hands-on experience in mineral exploration, geological mapping, exploration sampling, diamond drilling supervision, drill-core logging, structural geology, and geological data interpretation.
+Exploration Geologist with 5+ years of geological and field experience across Saudi Arabia and Pakistan, with hands-on experience in mineral exploration, geological mapping, exploration sampling, diamond drilling supervision, drill-core logging, structural geology, and geological data interpretation.
 
 Experienced in supporting exploration programs from field mapping and sampling through drilling, core logging, geological data collection, interpretation, and technical reporting.
 
