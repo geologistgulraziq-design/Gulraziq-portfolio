@@ -1,4 +1,4 @@
-# geologistgulraziq-portfolio
+# Ggulraziq-portfolio
 Professional portfolio website for Gul Raziq - Exploration Geologist
 # Gul Raziq
 
